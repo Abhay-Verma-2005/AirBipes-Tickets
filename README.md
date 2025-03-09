@@ -63,7 +63,7 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/AirBipes-Ticket-System.git
+git clone https://github.com/Abhay-Verma-2005/AirBipes-Tickets
 cd AirBipes-Ticket-System
 ```
 
