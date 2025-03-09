@@ -15,16 +15,37 @@ A simple air ticket booking system built with Python, Tkinter, and MySQL.
 
 Preview:
 ![Alt Text](Scans/U1.png)
+<BR>
 The Colourful UI interface at the begining allow operator person to perform multiple tasks
+<BR>
+
 ![Alt Text](Scans/U2.png)
+<BR>
+
 Register new customers and also fill there Data releted to journey
+<BR>
+
 ![Alt Text](Scans/U3.png)
+<BR>
+
 Generates bill of the customers Corrosponding to their registered no.
+<BR>
+
 ![Alt Text](Scans/U4.png)
+<BR>
+
 Operator can check all data by enter security password and also cam delete it.
+<BR>
+
 ![Alt Text](Scans/U5.png)
+<BR>
+
 Produces the Total cash collected on the particular day and Display with some security checks.
+<BR>
+
 ![Alt Text](Scans/U6.png)
+<BR>
+
 Server can change the passwords in case of foret it by Some security questions and Can exit from Window by Exit.
 
 
