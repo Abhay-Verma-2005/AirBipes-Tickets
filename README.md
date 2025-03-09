@@ -14,6 +14,8 @@ A simple air ticket booking system built with Python, Tkinter, and MySQL.
 ## Screenshots
 
 Preview:
+<br>
+<br>
 ![Alt Text](Scans/U1.png)
 <BR>
 The Colourful UI interface at the begining allow operator person to perform multiple tasks
