@@ -104,7 +104,7 @@ pip install mysql-connector-python pillow
 ### Running the Application
 
 ```sh
-python airbipes.py
+python AirTM.py
 ```
 
 ## Technologies Used
